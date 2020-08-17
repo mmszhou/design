@@ -3,10 +3,10 @@ package com.pattern.design;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class DesignPatternApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
